@@ -1,7 +1,8 @@
 # midi_strobe
 creating an SCCS strobe sequence aligning with the frequencies (minus a perfect third for greater intermodulation distortion) and amplitudes of each time slice within any midi file
 
-This script requires a .midi file of your favorite piece of music, using the Midi Toolbox, Audio Toolbox, and Signal Processing Toolboxes. 
+This script requires a .midi file of your favorite piece of music, using the Midi Toolbox, Audio Toolbox, and Signal Processing Toolboxes. The Midi Toolbox can be found here: https://github.com/miditoolbox/ 
+(The latter two toolboxes can be installed directly from MATLAB.)
 
 It converts each value for note (pitch) of the midi file into its corresponding note. 
 
