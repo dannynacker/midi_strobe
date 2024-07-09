@@ -1,0 +1,40 @@
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 396000
+Read 12000 bytes to: 408000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 408000
+Read 12000 bytes to: 420000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 420000
+Read 12000 bytes to: 432000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 432000
+Read 12000 bytes to: 444000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 444000
+Read 12000 bytes to: 456000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 456000
+Read 12000 bytes to: 468000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 468000
+Read 12000 bytes to: 480000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 480000
+Read 12000 bytes to: 492000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 492000
+Read 12000 bytes to: 504000
+Deleting complete current buffer
+Switching to buffer to current
+Loading new buffer from file from: 504000
+Read 12000 bytes to: 516000
